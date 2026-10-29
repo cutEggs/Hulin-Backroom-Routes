@@ -1,3 +1,4 @@
+#graph-exclude 
 # 狐霖的後室 RPG 路徑 For "Obsidian"
 ### Obsidian App link [Download](https://obsidian.md) 
 # Info
